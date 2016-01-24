@@ -14,11 +14,12 @@ Goal: Deciding on what has to be built in spring semester of ConsenSys internshi
 
 ## ROUND ONE: WHAT
   Ask: What do you want to be hacking?
-  - pitch in ideas, with a title and a blurb via a web form
+  - pitch in ideas, with a title, a blurb and success metrics via a web form
   - submissions/references to submissions are stored in the contract along with the senders id.
   - "Rate" all the different ideas
   - the authorized(/well informed) person takes a call
   Output: The project summary as a README in the github repo
+
 ## ROUND TWO: HOW
   - Ask: How do we hack it?
   - Rate the submissions
