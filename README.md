@@ -11,6 +11,7 @@ Collaborative ideation and decision making.
 
 ### A sample use case explained:
 Goal: Deciding on what has to be built in spring semester of ConsenSys internship at law.MIT
+
 ## ROUND ONE: WHAT
   Ask: What do you want to be hacking?
   - pitch in ideas, with a title and a blurb via a web form
@@ -23,6 +24,7 @@ Goal: Deciding on what has to be built in spring semester of ConsenSys internshi
   - Rate the submissions
   -
   Output: The Process
+
 ## ROUND THREE: WHEN
   - Ask "What key milestones" and "Benchmarks" and Dates should we use.
   - Automate the results to Milestones in GitHub
